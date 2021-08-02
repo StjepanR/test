@@ -8,3 +8,7 @@ add
 d
 e
 f
+add
+g
+h
+i
